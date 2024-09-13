@@ -1,0 +1,10 @@
+C:\Users\USUARIO\OneDrive\Escritorio\PracticaControlFlujo\Evaluacion\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\PracticaControlFlujo\Evaluacion\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\USUARIO\OneDrive\Escritorio\PracticaControlFlujo\Evaluacion\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\PracticaControlFlujo\Evaluacion\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\PracticaControlFlujo\Evaluacion\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\USUARIO\OneDrive\Escritorio\PracticaControlFlujo\Evaluacion\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Escritorio\PracticaControlFlujo\Evaluacion\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Escritorio\PracticaControlFlujo\Evaluacion\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\PracticaControlFlujo\Evaluacion\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\USUARIO\OneDrive\Escritorio\PracticaControlFlujo\Evaluacion\Ejercicio1\obj\Debug\Ejercicio1.pdb
